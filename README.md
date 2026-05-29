@@ -7,9 +7,6 @@
 A lightweight, local-first desktop browser built with Python, PyQt6, and QtWebEngine.
 Aurora Lite Browser gives you a clean tabbed browsing experience, local-only data storage, and a Windows packaging path that is easy to inspect and extend.
 
-> [!NOTE]
-> The source code is currently unavailable. We appreciate your patience and will release it soon.
-
 ## Overview
 
 Aurora Lite Browser is a small desktop web browser designed for clarity, local control, and approachable source code. It combines a PyQt6 interface with QtWebEngine rendering, then keeps user-facing browser data in local JSON files instead of relying on accounts, sync services, telemetry, or remote application backends.
